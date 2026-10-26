@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋, I'm 梁小环 (Kai)
+
+🎓 软件工程专业大一学生 | 💻 目标：C++ 底层开发 / 嵌入式工程师
+🧠 INFJ | 专注、善于思考与逻辑推导
+🌱 正在学习：C++ 核心语法、数据结构与算法
+🚀 兴趣爱好：热爱极简与科技，擅长代码调试与底层逻辑深挖。
+
+> "在这个充满不确定性的时代，代码是我能握住的最具确定性的武器。"# Hi there 👋
 
 <!--
 **Kai-L2026/Kai-L2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
